@@ -1,6 +1,9 @@
+öğrencinin notlarını girin
+öğrencinin notları girildi
 Matematik dersine 75 eklendi.
 Fizik dersine 50 eklendi.
 Kimya dersine 65 eklendi.
+notları kontrol edin
 
 Girilen Notlar:
 Matematik: 75

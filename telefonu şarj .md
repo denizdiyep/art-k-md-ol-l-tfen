@@ -1,3 +1,7 @@
+Telefonun adaptör kısmını şarja tak 
+telefonun şarj kablosunu kontrol et
+adaptörü kontrol
+telefonun şarja tak ve  dolmasını bekle
 Telefon şarj etmeye başladı!
 Şarj durumu: 0%
 Şarj durumu: 10%

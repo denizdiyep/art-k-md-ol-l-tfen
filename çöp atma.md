@@ -1,3 +1,5 @@
+çöplenizi çöp kutusna doğru götürün
+çöp ktunusnu kontrol edin doluysa boşaltın değilse çöpleri atnız
 Muz kabuğu çöpe atıldı.
 Su şişesi çöpe atıldı.
 Kağıt parçası çöpe atıldı.
