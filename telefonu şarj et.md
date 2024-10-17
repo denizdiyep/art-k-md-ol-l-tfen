@@ -17,3 +17,4 @@ class TelefonSarjEtme:
 # Telefon şarj etme işlemi başlatılır
 telefon = TelefonSarjEtme()
 telefon.sarj_et()
+

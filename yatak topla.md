@@ -1,22 +1,10 @@
-class YatakOdasiToplama:
-    def __init__(self):
-        self.adimlar = [
-            "Yatak örtüsünü düzelt.",
-            "Yastıkları yerleştir.",
-            "Yerdeki eşyaları topla.",
-            "Dolabı düzenle.",
-            "Odanı süpür.",
-            "Pencereleri aç ve havalandır."
-        ]
+Yatak odasını toplama işlemi başlatıldı!
 
-    def odadan_topla(self):
-        print("Yatak odasını toplama işlemi başlatıldı!\n")
-        
-        for adim in self.adimlar:
-            input(f"{adim} (Devam etmek için 'Enter' tuşuna basın...)")
-        
-        print("\nYatak odası toplama işlemi tamamlandı!")
+Yatak örtüsünü düzelt. (Devam etmek için 'Enter' tuşuna basın...)
+Yastıkları yerleştir. (Devam etmek için 'Enter' tuşuna basın...)
+Yerdeki eşyaları topla. (Devam etmek için 'Enter' tuşuna basın...)
+Dolabı düzenle. (Devam etmek için 'Enter' tuşuna basın...)
+Odanı süpür. (Devam etmek için 'Enter' tuşuna basın...)
+Pencereleri aç ve havalandır. (Devam etmek için 'Enter' tuşuna basın...)
 
-# Yatak odası toplama işlemi başlatılır
-toplayici = YatakOdasiToplama()
-toplayici.odadan_topla()
+Yatak odası toplama işlemi tamamlandı!
