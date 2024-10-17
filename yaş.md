@@ -1,3 +1,7 @@
-Doğum tarihinizi girin (GG-AA-YYYY formatında): 13-04-2007
-Yaşınız: 17 yıl
+Ayınızı girin 
+girdikten sonra kontrol edin 
+sonra yılınızı ve ayınızı girin
+onlarıda girdikten sonra tekrar kontrol edin
+ve doğum gününüzü girin
+ve tekrar kontrol edin mutlu yaşlar
 
