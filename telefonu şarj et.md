@@ -1,7 +1,7 @@
-telfonu şarj etmeye başlamdan önce adaptörü ve şarj kablosunu kontrol edin
-kontrol ettikten sonra adatörü prize takın
-taktıktan sonra telefonunuzu şarja takınız
-taktıktan sonra şarj olamsını bekleyin
+-telfonu şarj etmeye başlamdan önce adaptörü ve şarj kablosunu kontrol edin
+-kontrol ettikten sonra adatörü prize takın
+-taktıktan sonra telefonunuzu şarja takınız
+-taktıktan sonra şarj olamsını bekleyin
 Telefon şarj etmeye başladı!
 Şarj durumu: 0%
 Şarj durumu: 10%
