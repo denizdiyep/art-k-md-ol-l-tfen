@@ -1,10 +1,10 @@
-Yatak odasını toplama işlemi başlatıldı!
+Yatak oadsını toplama başlıyor
+yatak örtüsnü kontrol edin
+kontrol etikten sonra örtüyü düzeltin
+düzeltikten sonra yastıkları toplayın
+topladıktan sonra yatak bataniyesnini toplayın 
+topladıktan sonra yatk bataniyesnini düzeltin 
+düzeltikten sonra yatağı kontrol edin 
+yatak tolama tamamlandı
 
-Yatak örtüsünü düzelt. (Devam etmek için 'Enter' tuşuna basın...)
-Yastıkları yerleştir. (Devam etmek için 'Enter' tuşuna basın...)
-Yerdeki eşyaları topla. (Devam etmek için 'Enter' tuşuna basın...)
-Dolabı düzenle. (Devam etmek için 'Enter' tuşuna basın...)
-Odanı süpür. (Devam etmek için 'Enter' tuşuna basın...)
-Pencereleri aç ve havalandır. (Devam etmek için 'Enter' tuşuna basın...)
 
-Yatak odası toplama işlemi tamamlandı!
