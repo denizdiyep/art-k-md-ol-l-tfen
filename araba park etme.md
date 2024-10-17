@@ -1,9 +1,9 @@
-arabayı otparka doğru sürün
-otoparkta müsait bir yer bulun
-müsait bir yer bulduktan sonra kontrol edin
-kontrol ettikten sonra arçı dikatlice park ediniz
-park ettikten sonra çizginin içindemi diye kontrol edin
-çizgini içindeyse aracı durdurup el frenini çekin
-araçtan inin 
-aracı kitleyin
-aracınız park edildi
+-arabayı otparka doğru sürün
+-otoparkta müsait bir yer bulun
+-müsait bir yer bulduktan sonra kontrol edin
+-kontrol ettikten sonra arçı dikatlice park ediniz
+-park ettikten sonra çizginin içindemi diye kontrol edin
+-çizgini içindeyse aracı durdurup el frenini çekin
+-araçtan inin 
+-aracı kitleyin
+-aracınız park edildi
